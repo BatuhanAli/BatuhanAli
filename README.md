@@ -1,1 +1,2 @@
-![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanAli&show_icons=true&theme=transparent)
+Hello! 
+I am Batuhan Ozturk a Computer Scientist from QMUL!
